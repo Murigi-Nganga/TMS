@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">TMS</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_text">Home</string>
+    <string name="about_text">About</string>
+    <string name="contact_us_text">Contact Us</string>
+    <string name="nav_img_description">Icon with three bubbles</string>
+    <string name="nav_header_title">Three Modern Solutions</string>
+    <string name="nav_header_email">tms@threemodernsolutions.com</string>
 </resources>
