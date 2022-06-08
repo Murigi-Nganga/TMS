@@ -23,5 +23,8 @@
     <style name="Theme.TMS.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.TMS.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="CustomNavStyle">
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
 
 </resources>

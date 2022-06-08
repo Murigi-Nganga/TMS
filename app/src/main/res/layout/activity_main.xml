@@ -29,6 +29,9 @@
         app:headerLayout="@layout/nav_header_main"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
+        app:itemTextAppearance="@style/CustomNavStyle"
         app:menu="@menu/drawer_menu" />
+
+<!--    CustomNavStyle ensures the custom font doesn't change on "re-inflation" -->
 
 </androidx.drawerlayout.widget.DrawerLayout>
